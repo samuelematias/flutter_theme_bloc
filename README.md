@@ -1,16 +1,36 @@
-# flutter_theme_bloc
+<!-- header section -->
+<p align="center">
+  <span><b>Flutter Theme with Hydrated Bloc 💦 </b></span><br/>
+</p>
+<!-- header section END -->
 
-A new Flutter project.
+<br/>
 
-## Getting Started
+<!-- show case/gif section -->
+<p align="center">
+    <img alt="App" height="620" src="https://i.imgur.com/WL2Hekd.gif" />
+</p>
+<!-- show case/gif section END -->
 
-This project is a starting point for a Flutter application.
+<br/>
 
-A few resources to get you started if this is your first Flutter project:
+<!-- about app and course section -->
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## About this app 🗣
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple app showing how to use the theme and how restored the theme state even
+if the app was killed.
+
+## Tech Stack 👩🏾‍💻
+
+- [Dart](https://dart.dev/)
+- [Flutter](https://flutter.dev/)
+
+## Plugins 📟
+
+- [bloc](https://pub.dev/packages/bloc)
+- [flutter_bloc](https://pub.dev/packages/flutter_bloc)
+- [hydrated_bloc](https://pub.dev/packages/hydrated_bloc)
+
+<!-- about app and course section END -->
+
